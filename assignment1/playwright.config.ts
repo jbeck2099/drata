@@ -6,7 +6,7 @@ export default defineConfig({
   reporter: [
     ['dot'],
     ['html', {
-      open: 'never'
+      open: 'always'
     }]
   ],
   use: {
