@@ -1,0 +1,4 @@
+{
+    "homePageUrl": "https://drata.com/",
+    "homePageLinkLocator": "(//div[contains(@class,'MuiToolbar-root MuiToolbar-regular')]//a)[1]"
+}
