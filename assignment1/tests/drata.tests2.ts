@@ -1,6 +1,5 @@
 import { test, expect } from '@playwright/test';
 import DrataPage from '../pages/drataPage';
-import { pageHasNoConsoleErrors } from '../helpers';
 let settings = require('../data/settings.json');
 let visitedLinks: string[] = [];
 
