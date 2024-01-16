@@ -1,0 +1,20 @@
+[
+    {
+        "username": "spidey",
+        "planName": "Small",
+        "userId": 1,
+        "url": "https://api.github.com/users/spidey"
+    },
+    {
+        "username": "ironman",
+        "planName": "Medium",
+        "userId": 2,
+        "url": "https://api.github.com/users/ironman"
+    },
+    {
+        "username": "thor",
+        "planName": "Large",
+        "userId": 3,
+        "url": "https://api.github.com/users/thor"
+    }
+]
