@@ -1,20 +1,20 @@
 [
     {
+        "authToken": "2429E6B3-F3C9-49CD-B3CA-E36F193D0A9B",
         "username": "spidey",
         "planName": "Small",
-        "userId": 1,
-        "url": "https://api.github.com/users/spidey"
+        "userId": -1
     },
     {
+        "authToken": "A1643CE0-480D-4784-BE6E-918414D212E6",
         "username": "ironman",
         "planName": "Medium",
-        "userId": 2,
-        "url": "https://api.github.com/users/ironman"
+        "userId": 1
     },
     {
+        "authToken": "0EF88914-EE9C-43E7-AE9C-177CF0BC8101",
         "username": "thor",
         "planName": "Large",
-        "userId": 3,
-        "url": "https://api.github.com/users/thor"
+        "userId": 999999
     }
 ]

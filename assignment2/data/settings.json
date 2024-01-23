@@ -1,0 +1,6 @@
+{
+    "getAuthenticatedUserUrl": "https://api.github.com/user",
+    "userPersonalUrlPrefix": "https://api.github.com/users/",
+    "planMinValue": -1,
+    "planMaxValue": 999999
+}
